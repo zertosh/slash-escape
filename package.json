@@ -1,0 +1,23 @@
+{
+  "name": "slash-escape",
+  "version": "0.0.0",
+  "description": "Slash escape paths as valid filenames",
+  "keywords": [
+    "path",
+    "escape"
+  ],
+  "license": "MIT",
+  "author": "Andres Suarez <zertosh@gmail.com>",
+  "files": [
+    "slash-escape.js"
+  ],
+  "main": "slash-escape.js",
+  "repository": "https://github.com/zertosh/slash-escape",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^10.1.0"
+  }
+}
